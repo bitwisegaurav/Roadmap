@@ -34,7 +34,7 @@ Welcome to the Web Development Roadmap, a step-by-step guide to mastering web de
 - Iframes.
 - HTML5 semantic elements: &lt;header>, &lt;nav>, &lt;main>, &lt;section>, &lt;article>, &lt;aside>, &lt;footer>.
 
-### **Day 5** - HTML: Tables and Forms Practice (2-5 webpage**
+### **Day 5** - HTML: Tables and Forms Practice (2-5 webpage)
 
 ### **Day 6**: Advanced HTML Topics (Optional):
 - HTML5 canvas for graphics and animations.
@@ -86,7 +86,7 @@ Welcome to the Web Development Roadmap, a step-by-step guide to mastering web de
 - Box shadow and text shadow.
 - Gradients.
 
-### **Day 16** - CSS: Create YouTube's homepage structure##****
+### **Day 16** - CSS: Create YouTube's homepage structure
 
 ### **Day 17** - CSS Frameworks:
 - Introduction to CSS frameworks.
@@ -96,7 +96,7 @@ Welcome to the Web Development Roadmap, a step-by-step guide to mastering web de
 
 ## **JavaScript**
 
-### **Day 18 - JavaScript: The Programming Language of th**Web:**
+### **Day 18 - JavaScript: The Programming Language of the Web:
 - Introduction to JavaScript.
 - Variables, data types, and operators.
 - Control flow: if, else, switch, for, while, and do-while.
@@ -114,7 +114,7 @@ Welcome to the Web Development Roadmap, a step-by-step guide to mastering web de
 - ES6 features like arrow functions, let/const, and destructuring.
 - Explore classes, modules, and template literals.
 
-### **Day 22**-27 - JavaScript: Advanced Topics:
+### **Day 22-27** - JavaScript: Advanced Topics:
 - Closures, the 'this' keyword, and callbacks.
 - Promises and async/await.
 - Regular expressions.
@@ -134,14 +134,14 @@ Welcome to the Web Development Roadmap, a step-by-step guide to mastering web de
 - Relational Database.
 - Schema, Instances.
 
-### **Day 30**-33 - MySQL: Basics:
+### **Day 30-33** - MySQL: Basics:
 - Data types.
 - Creating a database and tables.
 - CRUD operations: SELECT, INSERT, UPDATE, and DELETE.
 - Alter Table.
 - Clauses: WHERE, ORDER BY, and GROUP BY.
 
-### **Day 34**-36 - MySQL: Important Topics:
+### **Day 34-36** - MySQL: Important Topics:
 - Operators: IS, IN, NOT IN, BETWEEN, LIKE.
 - Primary Key.
 - Foreign Key.
@@ -150,7 +150,7 @@ Welcome to the Web Development Roadmap, a step-by-step guide to mastering web de
 - Date functions: NOW, CURDATE, etc.
 - Group functions: MAX, MIN, COUNT, etc.
 
-### **Day 37**-41 - MySQL: Advanced Topics:
+### **Day 37-41** - MySQL: Advanced Topics:
 - Subqueries: Single row, Multi-row, Multi-column, and Correlated.
 - Joins: INNER, LEFT, RIGHT, FULL.
 - Views.
@@ -175,16 +175,16 @@ Welcome to the Web Development Roadmap, a step-by-step guide to mastering web de
 
 ### **Day 44** - PHP: Practice (1 form)
 
-### **Day 45**-47 - PHP: Database Basics:
+### **Day 45-47** - PHP: Database Basics:
 - Introduction to MySQL.
 - Connecting to a MySQL database.
 - Creating a database and tables.
 - CRUD operations: SELECT, INSERT, UPDATE, and DELETE.
 - PDO in PHP.
 
-### **Day 48** - PHP: Connecting form to the database.### **
+### **Day 48** - PHP: Connecting form to the database.
 
-### **Day 49**-51 - PHP: Important Topics:
+### **Day 49-51** - PHP: Important Topics:
 - Sessions and cookies in PHP.
 - File handling in PHP.
 
@@ -196,6 +196,6 @@ Welcome to the Web Development Roadmap, a step-by-step guide to mastering web de
 - Exception handling and error reporting.
 - Learning about namespaces and autoloading.
 
-### **Day 53**-∞ - PHP: Some Projects:
+### **Day 53-∞** - PHP: Some Projects:
 - Practice your skills by working on projects
 - Some Projects : todo list, login system, blog, shopping cart, simple CMS
