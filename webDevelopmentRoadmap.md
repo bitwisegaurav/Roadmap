@@ -198,4 +198,3 @@ Welcome to the Web Development Roadmap, a step-by-step guide to mastering web de
 
 ### **Day 53-∞** - PHP: Some Projects:
 - Practice your skills by working on projects
-- Some Projects : todo list, login system, blog, shopping cart, simple CMS
