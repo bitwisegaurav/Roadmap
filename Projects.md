@@ -8,6 +8,8 @@ Welcome to my Projects readme! This markdown file contains a list of projects th
 
 - **Day 5 : Form :** Create a contact form using HTML forms.
 
+- **Day 8 : Design Form :** Redesign the contact form.
+
 - **Day 15 : Responsive Design :** Design a responsive web page for desktop and mobile.
 
 - **Day 16 (Advanced) :** Recreate responsive structure of popular websites (e.g., Spotify, Youtube, Facebook) using CSS..
