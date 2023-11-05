@@ -96,7 +96,7 @@ Welcome to the Web Development Roadmap, a step-by-step guide to mastering web de
 
 ## **JavaScript**
 
-### **Day 18 - JavaScript: The Programming Language of the Web:
+### **Day 18** - JavaScript: The Programming Language of the Web:
 - Introduction to JavaScript.
 - Variables, data types, and operators.
 - Control flow: if, else, switch, for, while, and do-while.
